@@ -1,0 +1,16 @@
+.traffic-logs-content-pair {
+	margin-bottom: 10px;
+}
+.column-columnname.num, .manage-column.num {
+    max-width: 100px !important;
+    width: 100px !important;
+}
+.traffic-logs-content-settings {
+    margin-left: 10px !important;
+}
+/*.traffic_logs_table {*/
+/*    height: 500px !important;*/
+/*    overflow-y: scroll !important;*/
+/*    display: block !important;*/
+/*    border: 1px solid #2271B1 !important;*/
+/*}*/
